@@ -33,3 +33,18 @@ De 1 para 1 significa que cada linha da tabela é referente a cada linha de outr
 8. O que significa Drill Down / Drill Up ?
 
 Drill Down é sair de um nível mais alto, podendo ser hierárquico e buscar dados minuciosos, com detalhes. Já no conceito de Drill Up ocorre o inverso, saímos de um nível inferior de muitos detalhes para um nível superior mais abrangente, que é um nível com poucos detalhes.
+
+
+
+
+Teste técnico:
+
+1 - 
+
+
+
+
+
+
+
+
