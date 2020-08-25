@@ -1,4 +1,4 @@
-# Teste-BI
+  # Teste-BI
 
 Perguntas teóricas:
 
@@ -42,11 +42,3 @@ Teste técnico:
 1 - Foi feito no Power BI. A tabela DIM_Tempo, é uma tabela sem relacionamento.
 
 1.1 - Modelagem Relacional.
-
-
-
-
-
-
-
-
