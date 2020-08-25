@@ -39,7 +39,9 @@ Drill Down é sair de um nível mais alto, podendo ser hierárquico e buscar dad
 
 Teste técnico:
 
-1 - 
+1 - Foi feito no Power BI. A tabela DIM_Tempo, é uma tabela sem relacionamento.
+
+1.1 - Modelagem Relacional.
 
 
 
